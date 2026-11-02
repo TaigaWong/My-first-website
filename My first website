@@ -1,0 +1,16 @@
+<HTML>
+
+
+
+<body>
+
+<h1>Buildings</h1>
+<p>Images of buildings</p>
+<img src="House.webp">
+<img src="Shop.webp">
+
+<link rel="stylesheet" href="style.css">
+
+</body>
+
+</HTML>
